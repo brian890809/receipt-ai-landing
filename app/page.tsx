@@ -52,7 +52,7 @@ export default function LandingPage() {
               <span className="text-primary">See</span> what your money is really doing.
             </h1>
             <p className="max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-              AI-powered receipt analysis that reduces finance tracking time by 66.67% while bringing unprecedented
+              AI-powered receipt analysis that reduces finance tracking time by 70% while bringing unprecedented
               transparency to your spending.
             </p>
             <div className="flex flex-col gap-4 sm:flex-row">
@@ -119,7 +119,7 @@ export default function LandingPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-muted-foreground">
-                  Reduce finance tracking time by 66.67% with automated categorization and tagging.
+                  Reduce finance tracking time by 70% with automated categorization and tagging.
                 </p>
               </CardContent>
             </Card>
@@ -196,7 +196,7 @@ export default function LandingPage() {
           </div>
           <div className="mx-auto grid max-w-[64rem] grid-cols-2 gap-8 md:grid-cols-4">
             <div className="flex flex-col items-center justify-center">
-              <div className="text-3xl font-bold md:text-5xl">66.67%</div>
+              <div className="text-3xl font-bold md:text-5xl">70%</div>
               <div className="text-center text-sm text-muted-foreground">Less Time Spent on Finance Tracking</div>
             </div>
             <div className="flex flex-col items-center justify-center">

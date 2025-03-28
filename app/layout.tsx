@@ -17,8 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "ReceiptAI - AI-Powered Receipt Analysis",
   description:
-    "Bring transparency to your finances with AI-powered receipt analysis that reduces tracking time by 66.67%",
-    generator: 'v0.dev'
+    "Bring transparency to your finances with AI-powered receipt analysis that reduces tracking time by 70%",
 }
 
 export default function RootLayout({
