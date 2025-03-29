@@ -39,7 +39,7 @@ export default function LandingPage() {
           <div className="flex items-center gap-4">
             <ThemeToggle />
             <Button asChild>
-              <Link href="/login">Get Started</Link>
+              <a href="https://dashboard.analyzemyreceipt.com">Get Started</a>
             </Button>
           </div>
         </div>
@@ -57,13 +57,10 @@ export default function LandingPage() {
             </p>
             <div className="flex flex-col gap-4 sm:flex-row">
               <Button size="lg" asChild>
-                <Link href="/register">
+                <a href="https://dashboard.analyzemyreceipt.com/signup">
                   Start for free
                   <ArrowRight className="ml-2 h-4 w-4" />
-                </Link>
-              </Button>
-              <Button variant="outline" size="lg" asChild>
-                <Link href="#demo">View demo</Link>
+                </a>
               </Button>
             </div>
           </div>
@@ -224,10 +221,10 @@ export default function LandingPage() {
               Join thousands of users who have revolutionized their approach to personal finance.
             </p>
             <Button size="lg" className="mt-4" asChild>
-              <Link href="/register">
-                Start Your Free Trial
+              <a href="https://dashboard.analyzemyreceipt.com/signup">
+                Start For Free
                 <ArrowRight className="ml-2 h-4 w-4" />
-              </Link>
+              </a>
             </Button>
           </div>
         </section>
