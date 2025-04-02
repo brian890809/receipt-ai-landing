@@ -28,12 +28,12 @@ export default function LandingPage() {
               >
                 How It Works
               </Link>
-              <Link
+              {/* <Link
                 href="#pricing"
                 className="flex items-center text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
               >
                 Pricing
-              </Link>
+              </Link> */}
             </nav>
           </div>
           <div className="flex items-center gap-4">
